@@ -1,0 +1,10 @@
+
+*.o
+*.out
+
+gestor_reservas
+
+reservas.csv
+
+.vscode/
+.idea/
